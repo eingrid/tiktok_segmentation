@@ -1,0 +1,7 @@
+Flask==2.0.3
+keras==2.8.0
+numpy==1.22.3
+opencv_contrib_python==4.5.5.62
+tensorflow==2.8.0
+tensorflow_gpu==2.8.0
+Werkzeug==2.1.1
