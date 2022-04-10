@@ -1,7 +1,7 @@
 # TikTok Person/Background Segmentation
 
 
-![](task3_exmpl.png)
+![](https://github.com/eingrid/tiktok_segmentation/blob/website/exmpl.png)
 
 ## Table of Contents
 - [Description](#description)
