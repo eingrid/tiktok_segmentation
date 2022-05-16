@@ -21,6 +21,19 @@ Project constists of Colab Notebook and a Website that are located in different 
 
 Firsly, make sure that you have installed all requirements.
 
-Also preferably to have following versions of CUDA 11.1 and Python 3.7.13.
 
-Than you can clone this repo and you will have to change several pathes in code, after this you are done and you can run notebook or website. 
+```shell
+pip install -r /path/to/requirements.txt
+```
+or in conda
+```shell
+conda install --file requirements.txt
+```
+
+Also preferably to have version of CUDA 11.1 and Python 3.7.13.
+
+To run website:
+```shell
+python3 website.py
+```
+And than go to http://127.0.0.1:5000 to open site in browser.
